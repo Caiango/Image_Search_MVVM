@@ -1,4 +1,4 @@
-package com.example.imagesearchmvvm
+package com.example.imagesearchmvvm.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
